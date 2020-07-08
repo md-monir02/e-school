@@ -1,0 +1,88 @@
+  
+.nav-link{
+    margin-top: 10px;
+        color: black;
+    }
+    .sign-in-btn{
+        margin-top: 17px;
+        padding: 3px 10px;
+        border: none;
+        border-radius: 20px;
+        width: 80px;
+        background-color:#21B573;
+        color: white;
+    }
+    
+    .bg-header{
+    background-color:#F0FFF0 ;
+    }
+    .logo-position{
+        margin-top: 10px;
+    }
+    #color-para{
+        color: #FD511A;
+    }
+    .get-btn{
+        background-color:#21B573;
+        border: none;
+        border-radius: 30px;
+        color: white;
+        padding: 9px 25px;
+    }
+    .heading-position{
+        margin-top: 70px;
+        
+    }
+    .heading-position p{
+        color: #6C6B6B;
+    }
+    .cat1, .cat2, .cat3, .cat4{
+        margin-top: 60px;
+        padding: 10px 30px;
+
+    }
+    .cat1{
+        background-color: #F8FFFB;
+        
+    }
+    .cat2{
+        background-color: #FFFFFF;
+        
+    }
+    .cat3{
+        background-color: #F8FFFB;
+        
+    }
+    .cat4{
+        background-color: #F8FFFB;
+       
+    }
+    .buy-btn{
+        background-color:#21B573;
+        border: none;
+        border-radius: 30px;
+        color: white;
+        padding: 5px 10px;
+        margin-top: 10px;
+        
+    }
+    .card small{
+        color: #585859;
+    }
+    .card{
+        margin-top: 50px;
+        background-color: white;
+        border: none;
+        border-radius: 18px;
+        box-shadow: 5px 5px 40px lightgray ;
+    }
+    .card-footer{
+        background-color: white;
+        border: none;
+        margin-top: 5px;
+        height: 30px;
+    }
+    .card-footer img{
+        width: 15px;
+        height: 15px;
+    }
