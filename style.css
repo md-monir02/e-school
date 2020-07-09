@@ -37,32 +37,40 @@
         color: #6C6B6B;
     }
     .cat1, .cat2, .cat3, .cat4{
-        margin-top: 60px;
+        text-align: center;
+        margin-top: 100px;
         padding: 10px 30px;
 
     }
-    .cat1{
+    .cat1:hover {
         background-color: #F8FFFB;
+        box-shadow: 2px 2px 10px black;
         
     }
-    .cat2{
+    .cat2:hover{
         background-color: #FFFFFF;
+        box-shadow: 2px 2px 10px black;
         
     }
-    .cat3{
+    .cat3:hover{
         background-color: #F8FFFB;
+        box-shadow: 2px 2px 10px black;
         
     }
-    .cat4{
+    .cat4:hover{
         background-color: #F8FFFB;
+        box-shadow: 2px 2px 10px black;
        
+    }
+    #online-courses{
+        margin-top: 100px;
     }
     .buy-btn{
         background-color:#21B573;
         border: none;
         border-radius: 30px;
         color: white;
-        padding: 5px 10px;
+        padding: 9px 20px;
         margin-top: 10px;
         
     }
@@ -86,3 +94,40 @@
         width: 15px;
         height: 15px;
     }
+    #testimonial{
+        text-align: center;
+        margin-top: 100px;
+    }
+    .test-img{
+        padding-top: 20px;
+        padding-left: 200px;
+    }
+    .text-paragraph{
+        padding-top: 50px;
+        margin-left: 80px;
+        
+    }
+
+    .bg-last{
+        background-color: #282531 ;
+        margin-top: 100px;
+        height: 400px;
+        color: white;
+        
+    }
+
+    .left-artical, .course, .terms, .useful-link{
+        color: white;
+        margin-top: 50px;
+        list-style: none;
+
+      }
+      .course{
+          margin-left: 40px;
+      }
+    
+     .foot{
+         text-align: center;
+         margin-top: 60px;
+     }
+   
